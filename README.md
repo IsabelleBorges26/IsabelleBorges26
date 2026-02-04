@@ -1,22 +1,29 @@
-![Banner](banner.png)
 <p align="center">
   <img src="banner.png" />
 </p>
 
-## Hi 👋 I'm Isabelle  
+<h2 align="center">Hi 👋 I'm Isabelle</h2>
 
-💻 Web Developer in training  
-📚 Studying Systems Development  
-🚀 Passionate about technolog
+<p align="center">
+💻 Web Developer in training <br>
+📚 Studying Systems Development <br>
+🚀 Passionate about technology
+</p>
 
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/HTML-orange" />
+  <img src="https://img.shields.io/badge/CSS-blue" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleBorges26&show_icons=true&theme=radical" />
+</p>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBorges26&theme=radical" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=purple)
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsabelleBorges26&color=purple" />
+</p>
