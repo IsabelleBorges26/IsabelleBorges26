@@ -28,7 +28,19 @@
 </table>
 
 ---
+## - GitHub Dashboard
 
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelleBorges26&theme=radical" />
+
+<br>
+
+<p align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabelleBorges26&theme=radical" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleBorges26&theme=radical" />
+</p>
+
+
+---
 ## - Technology Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge"/>
@@ -41,4 +53,4 @@
 
 
 ---
-<h3 align="center"> Thanks for visiting my profile!</h3>
+<h3 align="center"> Thanks for visiting my profile! 💗 </h3>
