@@ -16,14 +16,17 @@
   <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=black" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleBorges26&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleBorges26&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBorges26&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBorges26&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=000000" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsabelleBorges26&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=IsabelleBorges26&color=ff69b4" />
 </p>
