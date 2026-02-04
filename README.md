@@ -30,3 +30,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IsabelleBorges26">
 </p>
+
+<img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelleBorges26&theme=dracula" /><br>
+
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabelleBorges26&theme=dracula" />
+
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleBorges26&theme=dracula" />
