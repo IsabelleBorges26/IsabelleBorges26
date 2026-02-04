@@ -3,7 +3,11 @@
   <img src="banner.png" width="100%" />
 </p>
 
-<h1>Hi, I'm Isabelle Borges. Welcome!💗</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=90&section=bottom"  width="100%"/>
+  <h1>Hi, I'm Isabelle Borges. Welcome!💗</h1>
+</p>
+
 
 <p>
   <b>Learning today, building tomorrow...</b>
