@@ -22,6 +22,7 @@
 * 🤖 **Actively participated in the robotics team**
 * 🚀 **Future Full Stack Developer**
 * 🎯 **Always seeking to learn and grow**
+* 🩷 [Access my portfolio!](https://isabelleborges26.github.io/)
 
 </td>
 <td width="45%" align="center">
